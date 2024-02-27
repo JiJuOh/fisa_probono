@@ -12,7 +12,7 @@ spring:
 #    url: jdbc:mysql://127.0.0.1:8777/fisa?useSSL=false&allowPublicKeyRetrieval=true
 ##  mysqldb라고 해야 한다는점! 도커컨테이너와 연결할때
 #    url: jdbc:mysql://db-share:3306/fisa?useSSL=false&allowPublicKeyRetrieval=true
-    url: jdbc:mysql://127.0.0.1:3306/fisa?useSSL=false&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://54.180.89.39:3306/fisa?useSSL=false&allowPublicKeyRetrieval=true
     username: user01
   jpa:
     database: mysql
