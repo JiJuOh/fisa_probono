@@ -1,2 +1,2 @@
 # fisa_probono
-jenkins
+jenkins test
